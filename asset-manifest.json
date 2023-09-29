@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/AI_Summarizer/static/js/main.1b483e60.js",
+    "static/media/logo3.png": "/AI_Summarizer/static/media/logo3.66897b6e5bbf0b7bc6a0.png",
+    "static/media/loader.svg": "/AI_Summarizer/static/media/loader.ea6ff667839edd911832c699ff84ff61.svg",
+    "static/media/link.svg": "/AI_Summarizer/static/media/link.66899171f55b9213aab69fab78357c0e.svg",
+    "index.html": "/AI_Summarizer/index.html",
+    "main.1b483e60.js.map": "/AI_Summarizer/static/js/main.1b483e60.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1b483e60.js"
+  ]
+}
